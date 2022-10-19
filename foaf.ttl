@@ -30,5 +30,5 @@
    social:likesMovie dbr:Sharknado , dbr:Sharktopus , dbr:Dinoshark , dbr:Mega_Shark_Versus_Giant_Octopus ;
    social:hasSpiritAnimal dbr:Capybara ;
    social:hasFavouritePlatonicSolid dbr:Sphere ;
-   foaf:myersBriggs "INFJ" .
+   foaf:myersBriggs "INFJ" ;
    foaf:gender "male" .
