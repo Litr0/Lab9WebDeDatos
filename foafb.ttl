@@ -1,4 +1,4 @@
-@base <https://raw.githubusercontent.com/Litr0/Lab9WebDeDatos/main/foafa.ttl>.
+@base <https://raw.githubusercontent.com/Litr0/Lab9WebDeDatos/main/foafb.ttl>.
 
 @prefix ah: <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
