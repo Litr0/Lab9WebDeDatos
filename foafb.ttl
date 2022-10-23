@@ -24,7 +24,7 @@
    foaf:familyName "Recabarren" ;
    foaf:age 69 ; # it would be better to put date of birth to not have to update every birthday, but hey :)
    foaf:img <https://images3.memedroid.com/images/UPLOADED447/62c0a90d63936.jpeg> ;
-   foaf:knows <http://anakena.dcc.uchile.cl/~pberrios/Watos/foaf.ttl> , <http://anakena.dcc.uchile.cl/~kcastill/foaf.ttl> , <anakena.dcc.uchile.cl/~emcastil/foaf/foaf.ttl> , <http://users.dcc.uchile.cl/~ahogan/foaf.ttl> ;
+   foaf:knows <http://anakena.dcc.uchile.cl/~pberrios/Watos/foaf.ttl> , <http://anakena.dcc.uchile.cl/~kcastill/foaf.ttl> , <http://anakena.dcc.uchile.cl/~emcastil/foaf/foaf.ttl> , <http://users.dcc.uchile.cl/~ahogan/foaf.ttl> ;
    foaf:interest dbr:Semantic_Web , dbr:Fortnite , dbr:Tetris ; 
    social:hasEnemy <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab> ;
    social:likesMovie dbr:Sharknado , dbr:Sharktopus , dbr:Dinoshark , dbr:Mega_Shark_Versus_Giant_Octopus ;
